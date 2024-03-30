@@ -55,7 +55,7 @@ export default function Home() {
               that they don&apos;t reflect my current skills anymore.
             </p>
             <p>
-              At work, we are small team of around 10 developers with the goal
+              At work, we are a small team of around 10 developers with the goal
               to rewrite the entire product (Saas) the company is based on in
               JavaScript. The current product was started in 2007 and is written
               in PHP and{" "}
