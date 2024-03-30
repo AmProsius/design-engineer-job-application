@@ -13,7 +13,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [require("tailwindcss-react-aria-components")],
+  plugins: [],
 };
 
 export default config;
