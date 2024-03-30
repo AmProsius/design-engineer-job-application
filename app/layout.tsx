@@ -10,7 +10,7 @@ const robotoSlab = Roboto_Slab({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Boilerplate",
+  title: "Job Application as a Design Engineer",
   description: "Authored by Fabian Bastwöste",
 };
 
