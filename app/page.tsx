@@ -101,11 +101,11 @@ export default function Home() {
           <Section>
             <SectionHeadline>Back to the start</SectionHeadline>
             <p>
-              Let's begin at how and why I ended up being where I am today. When
-              I was a kid, my dad and I would build Lego figures and take photos
-              of them. We then imported the photos to Photoshop 8.0, manually
-              removed the background and placed the figures onto a more fitting
-              background like a volcano or a jungle.
+              Let&apos;s begin at how and why I ended up being where I am today.
+              When I was a kid, my dad and I would build Lego figures and take
+              photos of them. We then imported the photos to Photoshop 8.0,
+              manually removed the background and placed the figures onto a more
+              fitting background like a volcano or a jungle.
             </p>
             <Gallery />
             <p>
@@ -127,7 +127,7 @@ export default function Home() {
               <ExternalLink href="https://getbootstrap.com/">
                 Bootstrap
               </ExternalLink>{" "}
-              as our CSS framework. When Tailwind CSS arrived, I wasn't
+              as our CSS framework. When Tailwind CSS arrived, I wasn&apos;t
               convinced at first. It felt like using inline styles (ugh!). But
               with the arrival of React and Vue, all of that changed.
             </p>
@@ -136,7 +136,7 @@ export default function Home() {
               <ExternalLink href="https://api-platform.com/">
                 API Platform
               </ExternalLink>{" "}
-              and quickly discovered Tailwind CSS's huge potential. I then
+              and quickly discovered Tailwind CSS&apos;s huge potential. I then
               became some kind of upgrade specialist for migrating Bootstrap to
               Tailwind CSS, which was a lot of fun. I also tried to{" "}
               <ExternalLink href="https://github.com/twbs/bootstrap/issues/35408">
@@ -192,7 +192,7 @@ export default function Home() {
               let me loose though, I will not rest before my work is perfect.
             </p>
             <p>
-              Also I'm an official trainer since 2017. In Germany, we have
+              Also I&apos;m an official trainer since 2017. In Germany, we have
               something called an apprenticeship, which is usually a period of
               three years to learn a professional field. The trainees have to
               visit a professional school for one or two times a week and are
@@ -206,11 +206,11 @@ export default function Home() {
           <Section>
             <SectionHeadline>What I am most excited about</SectionHeadline>
             <p>
-              This may come as a surprise, but I'm very much looking forward to
-              pimp the documentation. I've always loved writing and reading
-              documentations, but most of the stuff I wrote lies in company
-              internal Confluence documents. The last thing I wrote and designed
-              was a{" "}
+              This may come as a surprise, but I&apos;m very much looking
+              forward to pimp the documentation. I&apos;ve always loved writing
+              and reading documentations, but most of the stuff I wrote lies in
+              company internal Confluence documents. The last thing I wrote and
+              designed was a{" "}
               <ExternalLink href="https://storybook.js.org/">
                 Storybook
               </ExternalLink>{" "}
@@ -218,20 +218,20 @@ export default function Home() {
               point.
             </p>
             <p>
-              I'm also very excited about teaching the things that I will learn
-              along the way. I never actually got or took the time to do it, but
-              the urge is still within me. One thing I'm already good at though
-              is giving{" "}
+              I&apos;m also very excited about teaching the things that I will
+              learn along the way. I never actually got or took the time to do
+              it, but the urge is still within me. One thing I&apos;m already
+              good at though is giving{" "}
               <ExternalLink href="https://twitter.com/amprosius/status/1723394545197400340">
                 honest feedback
               </ExternalLink>{" "}
               when being asked so. Gotta build that audience somehow.
             </p>
             <p>
-              Can't wait to add a command palette to Catalyst, if I'm honest.
-              This trend is one of the coolest trends in the last few years and
-              it would be an honor to build and perfect this one for a broader
-              audience.
+              Can&apos;t wait to add a command palette to Catalyst, if I&apos;m
+              honest. This trend is one of the coolest trends in the last few
+              years and it would be an honor to build and perfect this one for a
+              broader audience.
             </p>
             <p>
               New templates for Tailwind UI are also very tempting. I already
@@ -239,9 +239,9 @@ export default function Home() {
               ideas in a private interview!
             </p>
             <p>
-              I'm a huge fan of style guides and design systems, so naturally I
-              was very excited for Tailwind UI and Catalyst. To work on either
-              of those would be a dream come true.
+              I&apos;m a huge fan of style guides and design systems, so
+              naturally I was very excited for Tailwind UI and Catalyst. To work
+              on either of those would be a dream come true.
             </p>
           </Section>
 
@@ -299,7 +299,7 @@ export default function Home() {
               <ExternalLink href="https://buildui.com/recipes/animated-tabs">
                 little animations
               </ExternalLink>{" "}
-              that enhance the user experience. It's a thin line between a
+              that enhance the user experience. It&apos;s a thin line between a
               joyful animation and a distracting animation, so I try to evaluate
               every animation I use on a project. We currently use a lot of
               micro-animations to make the page feel smoother and more app-like.
@@ -317,7 +317,7 @@ export default function Home() {
             </p>
             <p>
               Also Framer Motion and React Aria Components are a really good
-              team and I'm looking forward to bringing this experience to
+              team and I&apos;m looking forward to bringing this experience to
               Tailwind UI as well.
             </p>
           </Section>
@@ -325,16 +325,16 @@ export default function Home() {
           <Section>
             <SectionHeadline>Minimalism</SectionHeadline>
             <p>
-              I know it's bold to apply for this position with a minimal job
-              application (based on my{" "}
+              I know it&apos;s bold to apply for this position with a minimal
+              job application (based on my{" "}
               <ExternalLink href="https://github.com/AmProsius/next-boilerplate">
                 Next.js boilerplate
               </ExternalLink>
-              ), but I've heard Adam likes his readings{" "}
+              ), but I&apos;ve heard Adam likes his readings{" "}
               <ExternalLink href="https://twitter.com/adamwathan/status/1770986699599888537">
                 minimalistic
               </ExternalLink>
-              . But that's just one side of the coin. After seeing the
+              . But that&apos;s just one side of the coin. After seeing the
               documention <em>Minimalism</em> by{" "}
               <ExternalLink href="https://www.theminimalists.com/">
                 The Minimalists
@@ -350,7 +350,7 @@ export default function Home() {
             </Quote>
             <p>
               For me, minimalism is not only about having less physical stuff,
-              it's also about de-cluttering my life. I have since changed
+              it&apos;s also about de-cluttering my life. I have since changed
               relationships, diets and finances. When less is more, I can focus
               on the important things and leave behind anything that blocks me
               in any way.
@@ -375,8 +375,8 @@ export default function Home() {
               ).
             </p>
             <p>
-              And as I've learned in school: always end with a complimentary
-              close:
+              And as I&apos;ve learned in school: always end with a
+              complimentary close:
               <br />I am looking forward to hearing from you soon!
             </p>
           </Section>
