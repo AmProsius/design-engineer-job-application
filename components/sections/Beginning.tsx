@@ -44,12 +44,12 @@ export const Beginning: React.FC = () => (
       We started using Nuxt with{" "}
       <ExternalLink href="https://api-platform.com/">API Platform</ExternalLink>{" "}
       and quickly discovered Tailwind CSS&apos; huge potential. I then became
-      some kind of upgrade specialist for migrating Bootstrap to Tailwind CSS,
+      kind of an upgrade specialist for migrating Bootstrap to Tailwind CSS,
       which was a lot of fun. I also tried to{" "}
       <ExternalLink href="https://github.com/twbs/bootstrap/issues/35408">
         backport
       </ExternalLink>{" "}
-      some cool things from Tailwind to Bootstrap and bring my Symfony and Nuxt
+      some cool designs from Tailwind to Bootstrap and bring my Symfony and Nuxt
       knowledge back to Tailwind CSS (
       <ExternalLink href="https://github.com/tailwindlabs/tailwindcss.com/pull/1131">
         Symfony framework guide

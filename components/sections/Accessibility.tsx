@@ -4,7 +4,7 @@ import { SectionHeadline } from "@/components/SectionHeadline";
 
 export const Accessibility: React.FC = () => (
   <Section>
-    <SectionHeadline id="accessibility">A11Y</SectionHeadline>
+    <SectionHeadline id="accessibility">Accessibility</SectionHeadline>
 
     <p>
       As I&apos;m on the{" "}
@@ -38,13 +38,12 @@ export const Accessibility: React.FC = () => (
     </p>
 
     <p>
-      I wanted to write blog posts along the migration process, but
-      unfortunately there just wasn&apos;t enough time for that. I even started
+      I planned to write blog posts along the migration process and even started
       building{" "}
       <ExternalLink href="https://codesandbox.io/p/sandbox/rac-table-provider-typescript-p4qk54">
         minimal examples
       </ExternalLink>{" "}
-      of things I discovered, but I couldn&apos;t follow up with an in-depth
+      of things I discovered, but I couldn&apos;t yet follow up with an in-depth
       article about the challenges and gains of the whole process. There were
       definitely some interesting learnings along the way and I would love to
       tell you more about it in a personal interview.

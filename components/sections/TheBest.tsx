@@ -23,15 +23,14 @@ export const TheBest: React.FC = () => (
       </ExternalLink>{" "}
       since 2017. In Germany, we have something called an apprenticeship, which
       is usually a period of three years to learn a professional field. The
-      trainees have to visit a professional school for one or two times a week
-      and are taught in the company the rest of the time. The apprenticeship I
-      train can be roughly translated to <em>Digital Media Designer</em>. So I
-      already have about 7 years of experience in teaching the stuff I know in
-      person.
+      trainees have to attend a professional school once or twice a week and are
+      taught in the company the rest of the time. The apprenticeship I train can
+      be roughly translated to <em>Digital Media Designer</em>. So I already
+      have about 7 years of experience in teaching the stuff I know in person.
     </p>
 
     <p>
-      I have already{" "}
+      I have basic video editing knowledge, because I already{" "}
       <ExternalLink href="https://pokecamp.de/2016-retro">dabbled</ExternalLink>{" "}
       with Premiere Pro and After Effects and I absolutely love to cut videos
       based on their soundtrack. To learn more about After Effects would be

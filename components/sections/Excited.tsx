@@ -43,7 +43,7 @@ export const Excited: React.FC = () => (
     <p>
       New templates for Tailwind UI are also very tempting. I already have a few
       ideas in the back of my head (like a comparison portal template for
-      example) and I would love to share them in a private interview!
+      example) and I would love to share them in a personal interview!
     </p>
 
     <p>

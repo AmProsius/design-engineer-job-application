@@ -46,15 +46,15 @@ export const AboutMe: React.FC = () => (
     </p>
 
     <p>
-      At work, we are a small team of around 10 developers with the goal to
-      rewrite the entire product (Saas) the company is based on in JavaScript.
-      The current product was started in 2007 and is written in PHP and{" "}
+      At work, we are a small team of around 10 developers. The company is based
+      on a SaaS product and we are rewriting the entire app in JavaScript. The
+      current product was started in 2007 and is written in PHP and{" "}
       <ExternalLink href="https://twig.symfony.com/">Twig</ExternalLink>{" "}
       templates. It doesn&apos;t even use a PHP framework.
     </p>
 
     <p>
-      The new tech stack for the rewrite that started in 2022 includes (among
+      The new tech stack for the rewrite which started in 2022 includes (among
       other libraries):
     </p>
 
