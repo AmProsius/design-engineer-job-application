@@ -7,38 +7,6 @@ export const TheBest: React.FC = () => (
     <SectionHeadline>Why you need me</SectionHeadline>
 
     <p>
-      My tech twitter bubble allows me to always stay up-to-date with the
-      technologies I use. These include{" "}
-      <ExternalLink href="https://twitter.com/samselikoff">
-        Sam Selikoff
-      </ExternalLink>
-      ,{" "}
-      <ExternalLink href="https://twitter.com/devongovett">
-        Devon Govett
-      </ExternalLink>
-      ,{" "}
-      <ExternalLink href="https://twitter.com/emilkowalski_">
-        Emil Kowalski
-      </ExternalLink>{" "}
-      and other big players in the React community. Their educational knowledge
-      is gold and{" "}
-      <ExternalLink href="https://buildui.com/">BuildUI</ExternalLink> was an
-      instant buy. I&apos;m also often inspired by{" "}
-      <ExternalLink href="https://twitter.com/jh3yy">
-        Jhey Tompkins&apos;
-      </ExternalLink>{" "}
-      CSS content, which opens up my horizons.
-    </p>
-
-    <p>
-      I have already{" "}
-      <ExternalLink href="https://pokecamp.de/2016-retro">dabbled</ExternalLink>{" "}
-      with Premiere Pro and After Effects and I absolutely love to cut videos
-      based on their soundtrack. To learn more about After Effects would be
-      super fun for me.
-    </p>
-
-    <p>
       Pixel-perfect design is a passion of mine. That is one of the reasons I
       like to use{" "}
       <ExternalLink href="https://heroicons.com/">Heroicons</ExternalLink> or{" "}
@@ -60,6 +28,38 @@ export const TheBest: React.FC = () => (
       train can be roughly translated to <em>Digital Media Designer</em>. So I
       already have about 7 years of experience in teaching the stuff I know in
       person.
+    </p>
+
+    <p>
+      I have already{" "}
+      <ExternalLink href="https://pokecamp.de/2016-retro">dabbled</ExternalLink>{" "}
+      with Premiere Pro and After Effects and I absolutely love to cut videos
+      based on their soundtrack. To learn more about After Effects would be
+      super fun for me.
+    </p>
+
+    <p>
+      My tech twitter bubble allows me to always stay up-to-date with the
+      technologies I use. These include{" "}
+      <ExternalLink href="https://twitter.com/samselikoff">
+        Sam Selikoff
+      </ExternalLink>
+      ,{" "}
+      <ExternalLink href="https://twitter.com/devongovett">
+        Devon Govett
+      </ExternalLink>
+      ,{" "}
+      <ExternalLink href="https://twitter.com/emilkowalski_">
+        Emil Kowalski
+      </ExternalLink>{" "}
+      and other big players in the React community. Their educational knowledge
+      is gold and{" "}
+      <ExternalLink href="https://buildui.com/">BuildUI</ExternalLink> was an
+      instant buy. I&apos;m also often inspired by{" "}
+      <ExternalLink href="https://twitter.com/jh3yy">
+        Jhey Tompkins&apos;
+      </ExternalLink>{" "}
+      CSS content, which opens up my horizons.
     </p>
   </Section>
 );

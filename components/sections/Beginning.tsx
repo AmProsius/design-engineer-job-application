@@ -24,7 +24,7 @@ export const Beginning: React.FC = () => (
       </ExternalLink>{" "}
       (formerly known as <em>Iceflow Studios</em>). This obsession helped me
       gain access to an internship at a software engineering company which
-      ultimately resulted in a apprenticeship and later a permanent employment.
+      ultimately resulted in an apprenticeship and later a permanent employment.
     </p>
 
     <p>
@@ -35,8 +35,9 @@ export const Beginning: React.FC = () => (
       development and{" "}
       <ExternalLink href="https://getbootstrap.com/">Bootstrap</ExternalLink> as
       our CSS framework. When Tailwind CSS arrived, I wasn&apos;t convinced at
-      first. It felt like using inline styles (ugh!). But with the arrival of
-      React and Vue, all of that changed.
+      first. It felt like using inline styles (
+      <span className="italic">ugh!</span>). But with the arrival of React and
+      Vue, all of that changed.
     </p>
 
     <p>

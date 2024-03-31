@@ -2,6 +2,9 @@ import { ExternalLink } from "@/components/ExternalLink";
 import { Section } from "@/components/Section";
 import { SectionHeadline } from "@/components/SectionHeadline";
 
+import principlesOfMotion from "../../public/img/principles-motion.gif";
+import Image from "next/image";
+
 export const Animation: React.FC = () => (
   <Section>
     <SectionHeadline id="animation">Animation</SectionHeadline>
@@ -31,5 +34,18 @@ export const Animation: React.FC = () => (
       I&apos;m looking forward to bringing this experience to Tailwind UI as
       well.
     </p>
+
+    <figure>
+      <Image
+        src={principlesOfMotion}
+        alt="10 principles of motion design"
+        className="h-auto w-full"
+      />
+      <figcaption className="mt-3">
+        <ExternalLink href="http://jrcanest.co/">
+          10 Principles of Motion Design by Jorge R. Canedo
+        </ExternalLink>
+      </figcaption>
+    </figure>
   </Section>
 );
