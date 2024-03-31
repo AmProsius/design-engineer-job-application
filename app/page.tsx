@@ -19,7 +19,7 @@ export default function Home() {
           <Section>
             <SectionHeadline>About me</SectionHeadline>
             <p>
-              Hi, my name is Fabian Bastwöste and I&apos;ve been a Germany based
+              Hi, my name is Fabian Bastwöste, I&apos;m 31 and I&apos;ve been a
               frontend developer for more than{" "}
               <ExternalLink href="https://en.wikipedia.org/wiki/12_Years_a_Slave_(film)">
                 12 years
@@ -136,7 +136,7 @@ export default function Home() {
               <ExternalLink href="https://api-platform.com/">
                 API Platform
               </ExternalLink>{" "}
-              and quickly discovered Tailwind CSS&apos;s huge potential. I then
+              and quickly discovered Tailwind CSS&apos; huge potential. I then
               became some kind of upgrade specialist for migrating Bootstrap to
               Tailwind CSS, which was a lot of fun. I also tried to{" "}
               <ExternalLink href="https://github.com/twbs/bootstrap/issues/35408">
@@ -158,7 +158,7 @@ export default function Home() {
           <Section>
             <SectionHeadline>Why you need me</SectionHeadline>
             <p>
-              My tech twitter bubble allows to to always stay up-to-date with
+              My tech twitter bubble allows me to always stay up-to-date with
               the technologies I use. These include{" "}
               <ExternalLink href="https://twitter.com/samselikoff">
                 Sam Selikoff
@@ -171,35 +171,48 @@ export default function Home() {
               <ExternalLink href="https://twitter.com/emilkowalski_">
                 Emil Kowalski
               </ExternalLink>{" "}
-              and other big players in the React scene. Their educational
+              and other big players in the React community. Their educational
               knowledge is gold and{" "}
               <ExternalLink href="https://buildui.com/">BuildUI</ExternalLink>{" "}
-              was an instant buy.
+              was an instant buy. I&apos;m also often inspired by{" "}
+              <ExternalLink href="https://twitter.com/jh3yy">
+                Jhey Tompkins&apos;
+              </ExternalLink>{" "}
+              CSS content, which opens up my horizons.
             </p>
             <p>
               I have already{" "}
               <ExternalLink href="https://pokecamp.de/2016-retro">
                 dabbled
               </ExternalLink>{" "}
-              with Premiere Pro and After effects and I absolutely love to cut
+              with Premiere Pro and After Effects and I absolutely love to cut
               videos based on their soundtrack. To learn more about After
               Effects would be super fun for me.
             </p>
             <p>
               Pixel-perfect design is a passion of mine. That is one of the
-              reasons I use Heroicons btw. I am a true perfectionist, but I also
-              know when to put something aside if the priorities shift. If you
-              let me loose though, I will not rest before my work is perfect.
+              reasons I like to use{" "}
+              <ExternalLink href="https://heroicons.com/">
+                Heroicons
+              </ExternalLink>{" "}
+              or <ExternalLink href="https://iconic.app/">Iconic</ExternalLink>.
+              I am a true perfectionist, but I also know when to put something
+              aside if the priorities shift. If you let me loose though, I will
+              not rest before my work is perfect.
             </p>
             <p>
-              Also I&apos;m an official trainer since 2017. In Germany, we have
-              something called an apprenticeship, which is usually a period of
-              three years to learn a professional field. The trainees have to
-              visit a professional school for one or two times a week and are
-              taught in the company the rest of the time. The apprenticeship I
-              train can be roughly translated to <em>Digital Media Designer</em>
-              . So I already have about 7 years of experience in teaching the
-              stuff I know in person.
+              Also I&apos;m a trainer certified by the{" "}
+              <ExternalLink href="https://www.ihk.de/oldenburg/english-5351018">
+                Chamber of Commerce and Industry
+              </ExternalLink>{" "}
+              since 2017. In Germany, we have something called an
+              apprenticeship, which is usually a period of three years to learn
+              a professional field. The trainees have to visit a professional
+              school for one or two times a week and are taught in the company
+              the rest of the time. The apprenticeship I train can be roughly
+              translated to <em>Digital Media Designer</em>. So I already have
+              about 7 years of experience in teaching the stuff I know in
+              person.
             </p>
           </Section>
 
@@ -209,8 +222,8 @@ export default function Home() {
               This may come as a surprise, but I&apos;m very much looking
               forward to pimp the documentation. I&apos;ve always loved writing
               and reading documentations, but most of the stuff I wrote lies in
-              company internal Confluence documents. The last thing I wrote and
-              designed was a{" "}
+              company internal Confluence documents. The last thing I worked on
+              was a{" "}
               <ExternalLink href="https://storybook.js.org/">
                 Storybook
               </ExternalLink>{" "}
@@ -219,29 +232,37 @@ export default function Home() {
             </p>
             <p>
               I&apos;m also very excited about teaching the things that I will
-              learn along the way. I never actually got or took the time to do
-              it, but the urge is still within me. One thing I&apos;m already
-              good at though is giving{" "}
+              learn along the way. That is the reason why I became a trainer in
+              the first place. Additionally I like to provide{" "}
               <ExternalLink href="https://twitter.com/amprosius/status/1723394545197400340">
                 honest feedback
               </ExternalLink>{" "}
-              when being asked so. Gotta build that audience somehow.
+              when being asked to. This helps others (as well as me) to become
+              better at what they do.
             </p>
             <p>
-              Can&apos;t wait to add a command palette to Catalyst, if I&apos;m
-              honest. This trend is one of the coolest trends in the last few
-              years and it would be an honor to build and perfect this one for a
-              broader audience.
+              Can&apos;t wait to add a command palette to Catalyst, honestly.
+              I&apos;ve been excited about building an accessible command
+              palette since I saw Simon&apos;s{" "}
+              <ExternalLink href="https://www.youtube.com/watch?v=-jix4KyxLuQ">
+                YouTube video
+              </ExternalLink>{" "}
+              two years ago and it would be an honor to build and perfect this
+              one for a broader audience.
             </p>
             <p>
               New templates for Tailwind UI are also very tempting. I already
-              have a few in the back of my head and I would love to share some
-              ideas in a private interview!
+              have a few ideas in the back of my head (like a comparison portal
+              template for example) and I would love to share them in a private
+              interview!
             </p>
             <p>
               I&apos;m a huge fan of style guides and design systems, so
               naturally I was very excited for Tailwind UI and Catalyst. To work
-              on either of those would be a dream come true.
+              on either of those would be a dream come true. We could set up
+              Storybook for a quick component overview. We can add new
+              components like tags and tag groups. The possibilities are
+              endless.
             </p>
           </Section>
 
@@ -335,7 +356,7 @@ export default function Home() {
                 minimalistic
               </ExternalLink>
               . But that&apos;s just one side of the coin. After seeing the
-              documention <em>Minimalism</em> by{" "}
+              documentation <em>Minimalism</em> by{" "}
               <ExternalLink href="https://www.theminimalists.com/">
                 The Minimalists
               </ExternalLink>{" "}
@@ -361,6 +382,66 @@ export default function Home() {
               move <em>all my belongings</em> (aside from furniture). I invited
               a friend over and we moved everything in four hours. That includes
               fixing up the furniture!
+            </p>
+          </Section>
+
+          <Section>
+            <SectionHeadline>Private life</SectionHeadline>
+            <p>
+              I currently live alone with my 4-year-old son visiting on the
+              weekends.
+            </p>
+            <p>
+              As I&apos;m a big fan of retro games, I decided to become actually
+              involved and started developing an extensive{" "}
+              <ExternalLink href="https://github.com/AmProsius/gothic-1-community-patch">
+                patch
+              </ExternalLink>{" "}
+              for{" "}
+              <ExternalLink href="https://www.gog.com/en/game/gothic">
+                Gothic
+              </ExternalLink>
+              , a game that&apos;s over 20 years old (and currently 75% off, so
+              go and buy it). The patch has over 90k downloads and is the third
+              most subscribed mod on the{" "}
+              <ExternalLink href="https://steamcommunity.com/workshop/browse/?appid=65540&browsesort=totaluniquesubscribers&section=readytouseitems&actualsort=totaluniquesubscribers&p=1">
+                Steam workshop
+              </ExternalLink>
+              . I&apos;m also involved in some other mods (like the{" "}
+              <ExternalLink href="https://www.gothic-reloaded-mod.org/en/">
+                Gothic Reloaded Mod
+              </ExternalLink>
+              , which visually overhauls the game) and an{" "}
+              <ExternalLink href="https://forum.worldofplayers.de/forum/threads/1574630-Release-Gothic-1-Community-Patch?p=26713410&viewfull=1#post26713410">
+                active community member
+              </ExternalLink>
+              .
+            </p>
+            <p>
+              To consistently improve my imagination, I regularly participate in{" "}
+              <ExternalLink href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game">
+                pen and paper
+              </ExternalLink>{" "}
+              events with my friends. Everyting from high fantasy (
+              <ExternalLink href="https://en.wikipedia.org/wiki/The_Dark_Eye">
+                The Dark Eye
+              </ExternalLink>
+              ) over the current timeline (
+              <ExternalLink href="https://en.wikipedia.org/wiki/Vampire:_The_Masquerade">
+                Vampire: The Masquerade
+              </ExternalLink>
+              ) to a cyberpunk future (
+              <ExternalLink href="https://en.wikipedia.org/wiki/Shadowrun">
+                Shadowrun
+              </ExternalLink>
+              ).
+            </p>
+            <p>
+              To focus at work, I created a{" "}
+              <ExternalLink href="https://open.spotify.com/playlist/20AitWDd3aryUJKq221nhT?si=921ad85cb4354ff6">
+                psychill playlist
+              </ExternalLink>{" "}
+              on Spotify. Try it out, if you&apos;re into electronic music!
             </p>
           </Section>
 
