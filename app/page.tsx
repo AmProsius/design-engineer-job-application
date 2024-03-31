@@ -1,11 +1,12 @@
 import { ExternalLink } from "@/components/ExternalLink";
+import { Footer } from "@/components/Footer";
+import { Gallery } from "@/components/Gallery";
 import { Header } from "@/components/Header";
 import { Headline } from "@/components/Headline";
-import { Section } from "@/components/Section";
 import { InternalLink } from "@/components/InternalLink";
-import { SectionHeadline } from "@/components/SectionHeadline";
-import { Gallery } from "@/components/Gallery";
 import { Quote } from "@/components/Quote";
+import { Section } from "@/components/Section";
+import { SectionHeadline } from "@/components/SectionHeadline";
 
 export default function Home() {
   return (
@@ -463,6 +464,8 @@ export default function Home() {
           </Section>
         </div>
       </main>
+
+      <Footer />
     </>
   );
 }
