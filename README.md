@@ -4,7 +4,7 @@ This is a [job application](https://tailwindcss.com/careers/design-engineer) bas
 
 ## Preview
 
-The application can be previewed on [Vercel](https://design-engineer-job-application.vercel.app/).
+This application is hosted on [Vercel](https://job.amprosius.de/).
 
 ## Development
 
