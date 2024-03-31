@@ -2,6 +2,9 @@ import { ExternalLink } from "@/components/ExternalLink";
 import { Section } from "@/components/Section";
 import { SectionHeadline } from "@/components/SectionHeadline";
 
+import tailwindCssLogo from "../../public/img/logo-tailwindcss.svg";
+import Image from "next/image";
+
 export const Excited: React.FC = () => (
   <Section>
     <SectionHeadline>What I am most excited about</SectionHeadline>
@@ -50,5 +53,7 @@ export const Excited: React.FC = () => (
       component overview. We can add new components like tags and tag groups.
       The possibilities are endless.
     </p>
+
+    <Image src={tailwindCssLogo} alt="Tailwind CSS logo" className="mx-auto" />
   </Section>
 );

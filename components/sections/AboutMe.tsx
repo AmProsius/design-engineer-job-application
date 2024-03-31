@@ -41,7 +41,8 @@ export const AboutMe: React.FC = () => (
       </ExternalLink>{" "}
       or{" "}
       <ExternalLink href="https://www.nord-akademie.de/">so old</ExternalLink>{" "}
-      that they don&apos;t reflect my current skills anymore.
+      that they don&apos;t reflect my current skills anymore. That&apos;s also
+      the reason why I don&apos;t have a portfolio yet.
     </p>
 
     <p>

@@ -1,14 +1,13 @@
+import Image from "next/image";
 import { ExternalLink } from "@/components/ExternalLink";
 import { Section } from "@/components/Section";
 import { SectionHeadline } from "@/components/SectionHeadline";
 
+import gothicLogo from "../../public/img/logo-gothic.png";
+
 export const PrivateLife: React.FC = () => (
   <Section>
     <SectionHeadline>Private life</SectionHeadline>
-
-    <p>
-      I currently live alone with my 4-year-old son visiting on the weekends.
-    </p>
 
     <p>
       As I&apos;m a big fan of retro games, I decided to become actually
@@ -20,13 +19,13 @@ export const PrivateLife: React.FC = () => (
       <ExternalLink href="https://www.gog.com/en/game/gothic">
         Gothic
       </ExternalLink>
-      , a game that&apos;s over 20 years old (and currently 75% off, so go and
-      buy it). The patch has over 90k downloads and is the third most subscribed
-      mod on the{" "}
+      , a game which is over 20 years old (and currently 75% off, so go and buy
+      it). The patch has over 90k downloads and is the third most subscribed mod
+      on the{" "}
       <ExternalLink href="https://steamcommunity.com/workshop/browse/?appid=65540&browsesort=totaluniquesubscribers&section=readytouseitems&actualsort=totaluniquesubscribers&p=1">
         Steam workshop
       </ExternalLink>
-      . Please note that is issue tracker is used to collect issues of the{" "}
+      . Please note that the issue tracker is used to collect issues of the{" "}
       <em>game</em>, not the <em>patch</em>. I&apos;m also involved in some
       other mods (like the{" "}
       <ExternalLink href="https://www.gothic-reloaded-mod.org/en/">
@@ -38,6 +37,12 @@ export const PrivateLife: React.FC = () => (
       </ExternalLink>
       .
     </p>
+
+    <Image
+      src={gothicLogo}
+      alt="Gothic 1 Community Patch logo"
+      className="mx-auto h-48 w-auto"
+    />
 
     <p>
       To consistently improve my imagination, I regularly participate in{" "}
