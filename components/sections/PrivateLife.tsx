@@ -45,13 +45,19 @@ export const PrivateLife: React.FC = () => (
     />
 
     <p>
-      To consistently improve my imagination, I regularly participate in{" "}
+      As I regularly participate in{" "}
       <ExternalLink href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game">
         pen and paper
       </ExternalLink>{" "}
-      events with my friends. Everyting from high fantasy (
+      events with my friends (either as a game master or as a player), that
+      helps me to consistently improve my imagination. We play everything from
+      high fantasy (
       <ExternalLink href="https://en.wikipedia.org/wiki/The_Dark_Eye">
         The Dark Eye
+      </ExternalLink>
+      ,{" "}
+      <ExternalLink href="https://rtalsoriangames.com/witcher-trpg/">
+        The Witcher
       </ExternalLink>
       ) over the current timeline (
       <ExternalLink href="https://en.wikipedia.org/wiki/Vampire:_The_Masquerade">
