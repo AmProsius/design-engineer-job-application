@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import photo from "@/public/img/my_face.jpg";
+import photo from "@/public/img/fabian-bastwoeste.jpg";
 
 export const Header: React.FC = () => {
   return (

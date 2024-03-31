@@ -1,7 +1,7 @@
 import Image, { StaticImageData } from "next/image";
-import bionicleFire from "../public/img/bionicle_fire.jpg";
-import bionicleIce from "../public/img/bionicle_ice.jpg";
-import bionicleJungle from "../public/img/bionicle_jungle.jpg";
+import bionicleFire from "../public/img/bionicle-fire.jpg";
+import bionicleIce from "../public/img/bionicle-ice.jpg";
+import bionicleJungle from "../public/img/bionicle-jungle.jpg";
 
 interface GalleryImage {
   alt: string;
