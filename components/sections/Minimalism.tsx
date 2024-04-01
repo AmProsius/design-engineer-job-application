@@ -18,11 +18,8 @@ export const Minimalism: React.FC = () => (
         minimalistic
       </ExternalLink>
       . But that&apos;s just one side of the coin. After seeing the
-      documentation <em>Minimalism</em> by{" "}
-      <ExternalLink href="https://www.theminimalists.com/">
-        The Minimalists
-      </ExternalLink>{" "}
-      on Netflix, I radically changed my lifestyle.
+      documentation <em>Minimalism</em> by The Minimalists on Netflix, I
+      radically changed my lifestyle.
     </p>
 
     <Quote>

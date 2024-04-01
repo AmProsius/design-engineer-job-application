@@ -13,9 +13,8 @@ export const Excited: React.FC = () => (
       This may come as a surprise, but I&apos;m very much looking forward to
       pimp the documentation. I&apos;ve always loved writing and reading
       documentations, but most of the stuff I wrote lies in company internal
-      Confluence documents. The last thing I worked on was a{" "}
-      <ExternalLink href="https://storybook.js.org/">Storybook</ExternalLink>{" "}
-      for our current component library which we plan to publish at some point.
+      Confluence documents. The last thing I worked on was a Storybook for our
+      current component library which we plan to publish at some point.
     </p>
 
     <p>
@@ -23,7 +22,7 @@ export const Excited: React.FC = () => (
       along the way. That is the reason why I became a trainer in the first
       place. Additionally I like to provide{" "}
       <ExternalLink href="https://twitter.com/amprosius/status/1723394545197400340">
-        honest feedback
+        feedback
       </ExternalLink>{" "}
       when being asked to. This helps others (as well as me) to become better at
       what they do.

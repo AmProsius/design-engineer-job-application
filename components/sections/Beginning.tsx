@@ -18,47 +18,40 @@ export const Beginning: React.FC = () => (
     <Gallery />
 
     <p>
-      In the subsequent years, I mastered Photoshop with the help of{" "}
-      <ExternalLink href="https://www.youtube.com/howardpinsky">
-        Howard Pinsky
-      </ExternalLink>{" "}
-      (formerly known as <em>Iceflow Studios</em>). This obsession helped me
-      gain access to an internship at a software engineering company which
-      ultimately resulted in an apprenticeship and later a permanent employment.
+      In the subsequent years, I mastered Photoshop with the help of Howard
+      Pinsky&apos;s videos (formerly known as <em>Iceflow Studios</em>). This
+      obsession helped me gain access to an internship at a software engineering
+      company which ultimately resulted in an apprenticeship and later a
+      permanent employment.
     </p>
 
     <p>
-      There I learned HTML, CSS, JavaScript (or rather{" "}
-      <ExternalLink href="https://jquery.com/">jQuery</ExternalLink>) and PHP
-      from scratch. We later used{" "}
-      <ExternalLink href="https://symfony.com/">Symfony</ExternalLink> for PHP
-      development and{" "}
-      <ExternalLink href="https://getbootstrap.com/">Bootstrap</ExternalLink> as
-      our CSS framework. When Tailwind CSS arrived, I wasn&apos;t convinced at
+      There I learned HTML, CSS, JavaScript (or rather jQuery) and PHP from
+      scratch. We later used Symfony for PHP development and Bootstrap as our
+      CSS framework. When Tailwind CSS arrived, I wasn&apos;t convinced at
       first. It felt like using inline styles (
       <span className="italic">ugh!</span>). But with the arrival of React and
       Vue, all of that changed.
     </p>
 
     <p>
-      We started using Nuxt with{" "}
-      <ExternalLink href="https://api-platform.com/">API Platform</ExternalLink>{" "}
-      and quickly discovered Tailwind CSS&apos; huge potential. I then became
-      kind of an upgrade specialist for migrating Bootstrap to Tailwind CSS,
-      which was a lot of fun. I also tried to{" "}
+      We started using Nuxt with API Platform and quickly discovered Tailwind
+      CSS&apos; huge potential. I then became kind of an upgrade specialist for
+      migrating Bootstrap to Tailwind CSS, which was a lot of fun. I also tried
+      to{" "}
       <ExternalLink href="https://github.com/twbs/bootstrap/issues/35408">
         backport
       </ExternalLink>{" "}
       some cool designs from Tailwind to Bootstrap and bring my Symfony and Nuxt
       knowledge back to Tailwind CSS (
       <ExternalLink href="https://github.com/tailwindlabs/tailwindcss.com/pull/1131">
-        Symfony framework guide
-      </ExternalLink>{" "}
-      /{" "}
-      <ExternalLink href="https://github.com/tailwindlabs/tailwindcss.com/pull/1383">
-        Nuxt framework guide
+        Symfony
       </ExternalLink>
-      ) .
+      /
+      <ExternalLink href="https://github.com/tailwindlabs/tailwindcss.com/pull/1383">
+        Nuxt
+      </ExternalLink>{" "}
+      framework guides).
     </p>
   </Section>
 );

@@ -8,19 +8,13 @@ export const TheBest: React.FC = () => (
 
     <p>
       Pixel-perfect design is a passion of mine. That is one of the reasons I
-      like to use{" "}
-      <ExternalLink href="https://heroicons.com/">Heroicons</ExternalLink> or{" "}
-      <ExternalLink href="https://iconic.app/">Iconic</ExternalLink>. I am a
-      true perfectionist, but I also know when to put something aside if the
-      priorities shift. If you let me loose though, I will not rest before my
-      work is perfect.
+      like to use Heroicons or Iconic. I am a true perfectionist, but I also
+      know when to put something aside if the priorities shift. If you let me
+      loose though, I will not rest before my work is perfect.
     </p>
 
     <p>
-      Also I&apos;m a trainer certified by the{" "}
-      <ExternalLink href="https://www.ihk.de/oldenburg/english-5351018">
-        Chamber of Commerce and Industry
-      </ExternalLink>{" "}
+      Also I&apos;m a trainer certified by the Chamber of Commerce and Industry
       since 2017. In Germany, we have something called an apprenticeship, which
       is usually a period of three years to learn a professional field. The
       trainees have to attend a professional school once or twice a week and are
@@ -39,26 +33,10 @@ export const TheBest: React.FC = () => (
 
     <p>
       My tech twitter bubble allows me to always stay up-to-date with the
-      technologies I use. These include{" "}
-      <ExternalLink href="https://twitter.com/samselikoff">
-        Sam Selikoff
-      </ExternalLink>
-      ,{" "}
-      <ExternalLink href="https://twitter.com/devongovett">
-        Devon Govett
-      </ExternalLink>
-      ,{" "}
-      <ExternalLink href="https://twitter.com/emilkowalski_">
-        Emil Kowalski
-      </ExternalLink>{" "}
-      and other big players in the React community. Their educational knowledge
-      is gold and{" "}
-      <ExternalLink href="https://buildui.com/">BuildUI</ExternalLink> was an
-      instant buy. I&apos;m also often inspired by{" "}
-      <ExternalLink href="https://twitter.com/jh3yy">
-        Jhey Tompkins&apos;
-      </ExternalLink>{" "}
-      CSS content, which opens up my horizons.
+      technologies I use. These include Sam Selikoff, Devon Govett, Emil
+      Kowalski and other big players in the React community. Their educational
+      knowledge is gold and BuildUI was an instant buy. I&apos;m also often
+      inspired by Jhey Tompkins&apos; CSS content, which opens up my horizons.
     </p>
   </Section>
 );

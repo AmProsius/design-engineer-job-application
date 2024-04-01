@@ -8,13 +8,9 @@ export const AboutMe: React.FC = () => (
   <Section>
     <SectionHeadline>About me</SectionHeadline>
     <p>
-      Hi, my name is Fabian Bastwöste, I&apos;m 31 and I&apos;ve been a frontend
-      developer for more than{" "}
-      <ExternalLink href="https://en.wikipedia.org/wiki/12_Years_a_Slave_(film)">
-        12 years
-      </ExternalLink>
-      . It&apos;s sunny outside and Easter is approaching, so I&apos;m in a good
-      mood.
+      Hi, my name is Fabian Bastwöste, I&apos;m 31 years old and I&apos;ve been
+      a frontend developer for more than 12 years. It&apos;s sunny outside and
+      Easter is approaching, so I&apos;m in a good mood.
     </p>
 
     <p>
@@ -37,9 +33,9 @@ export const AboutMe: React.FC = () => (
       Unfortunately I can&apos;t show you much of any recent public projects I
       worked on, because they are either{" "}
       <ExternalLink href="https://zentrale.crime-mails.com/login">
-        hidden beneath an authentication
+        hidden
       </ExternalLink>{" "}
-      or{" "}
+      beneath an authentication or{" "}
       <ExternalLink href="https://www.nord-akademie.de/">so old</ExternalLink>{" "}
       that they don&apos;t reflect my current skills anymore. That&apos;s also
       the reason why I don&apos;t have a portfolio yet.
@@ -48,8 +44,7 @@ export const AboutMe: React.FC = () => (
     <p>
       At work, we are a small team of around 10 developers. The company is based
       on a SaaS product and we are rewriting the entire app in JavaScript. The
-      current product was started in 2007 and is written in PHP and{" "}
-      <ExternalLink href="https://twig.symfony.com/">Twig</ExternalLink>{" "}
+      current product was started in 2007 and is written in PHP and Twig
       templates. It doesn&apos;t even use a PHP framework.
     </p>
 
@@ -59,30 +54,15 @@ export const AboutMe: React.FC = () => (
     </p>
 
     <ul className="list-disc space-y-2 pl-8 marker:text-gray-300">
+      <li>Nx workspace with Next.js</li>
+      <li>Tailwind CSS (of course)</li>
       <li>
-        <ExternalLink href="https://nx.dev/getting-started/intro">
-          Nx
-        </ExternalLink>{" "}
-        workspace with{" "}
-        <ExternalLink href="https://nextjs.org/">Next.js</ExternalLink>
+        React Aria Components for{" "}
+        <InternalLink anchor="accessibility">accessibility</InternalLink>
       </li>
       <li>
-        <ExternalLink href="https://tailwindcss.com/">
-          Tailwind CSS
-        </ExternalLink>{" "}
-        (of course)
-      </li>
-      <li>
-        <ExternalLink href="https://react-spectrum.adobe.com/react-aria/components.html">
-          React Aria Components
-        </ExternalLink>{" "}
-        for <InternalLink anchor="accessibility">accessibility</InternalLink>
-      </li>
-      <li>
-        <ExternalLink href="https://www.framer.com/motion/">
-          Framer Motion
-        </ExternalLink>{" "}
-        for <InternalLink anchor="animation">animation</InternalLink>
+        Framer Motion for{" "}
+        <InternalLink anchor="animation">animation</InternalLink>
       </li>
     </ul>
   </Section>

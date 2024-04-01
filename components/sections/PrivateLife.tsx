@@ -15,23 +15,15 @@ export const PrivateLife: React.FC = () => (
       <ExternalLink href="https://github.com/AmProsius/gothic-1-community-patch">
         patch
       </ExternalLink>{" "}
-      for{" "}
-      <ExternalLink href="https://www.gog.com/en/game/gothic">
-        Gothic
-      </ExternalLink>
-      , a game which is over 20 years old (and currently 75% off, so go and buy
-      it). The patch has over 90k downloads and is the third most subscribed mod
-      on the{" "}
+      Gothic, a game which is over 20 years old. The patch has over 90k
+      downloads and is the third most subscribed mod on the{" "}
       <ExternalLink href="https://steamcommunity.com/workshop/browse/?appid=65540&browsesort=totaluniquesubscribers&section=readytouseitems&actualsort=totaluniquesubscribers&p=1">
         Steam workshop
       </ExternalLink>
-      . Please note that the issue tracker is used to collect issues of the{" "}
-      <em>game</em>, not the <em>patch</em>. I&apos;m also involved in some
-      other mods (like the{" "}
-      <ExternalLink href="https://www.gothic-reloaded-mod.org/en/">
-        Gothic Reloaded Mod
-      </ExternalLink>
-      , which visually overhauls the game) and an{" "}
+      . Please note that the issue tracker in the GitHub repo is used to collect
+      issues of the <em>game</em>, not the <em>patch</em>. I&apos;m also
+      involved in some other mods (like the Gothic Reloaded Mod, which visually
+      overhauls the game) and an{" "}
       <ExternalLink href="https://forum.worldofplayers.de/forum/threads/1574630-Release-Gothic-1-Community-Patch?p=26713410&viewfull=1#post26713410">
         active community member
       </ExternalLink>
@@ -45,28 +37,11 @@ export const PrivateLife: React.FC = () => (
     />
 
     <p>
-      As I regularly participate in{" "}
-      <ExternalLink href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game">
-        pen and paper
-      </ExternalLink>{" "}
-      events with my friends (either as a game master or as a player), my
-      imagination consistently improves. We play everything from high fantasy (
-      <ExternalLink href="https://en.wikipedia.org/wiki/The_Dark_Eye">
-        The Dark Eye
-      </ExternalLink>
-      ,{" "}
-      <ExternalLink href="https://rtalsoriangames.com/witcher-trpg/">
-        The Witcher
-      </ExternalLink>
-      ) over alternative current timelines (e.g.
-      <ExternalLink href="https://en.wikipedia.org/wiki/Vampire:_The_Masquerade">
-        Vampire: The Masquerade
-      </ExternalLink>
-      ) to a cyberpunk future (
-      <ExternalLink href="https://en.wikipedia.org/wiki/Shadowrun">
-        Shadowrun
-      </ExternalLink>
-      ).
+      As I regularly participate in pen and paper events with my friends (either
+      as a game master or as a player), my imagination consistently improves. We
+      explore different systems and play everything from high fantasy (e.g. The
+      Dark Eye) over alternative current timelines (e.g. Vampire: The Masquerade
+      ) to a cyberpunk future (e.g. Shadowrun).
     </p>
 
     <p>

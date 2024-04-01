@@ -19,22 +19,16 @@ export const Accessibility: React.FC = () => (
 
     <p>
       Being on the spectrum allows me to concentrate on a single task for a long
-      time, which proved very helpful in the past. I also love grammar and how{" "}
-      <ExternalLink href="https://www.youtube.com/@RobWords">
-        language evolves
-      </ExternalLink>{" "}
-      (which includes programming languages as well).
+      time, which proved very helpful in the past. I also love grammar and how
+      languages evolve (that includes programming languages as well). RobWords
+      is a fantastic YouTube channel in that regard.
     </p>
 
     <p>
-      When{" "}
-      <ExternalLink href="https://react-spectrum.adobe.com/react-aria/components.html">
-        React Aria Components
-      </ExternalLink>{" "}
-      became stable late last year, I immediately started migrating our existing
-      components to React Aria Components, which allowed us to have a ton of
-      accessibility features out of the box. I hate to admit it, but this
-      library completely replaced Headless UI for us. 🙈
+      When React Aria Components became stable late last year, I immediately
+      started migrating our existing components to React Aria Components, which
+      allowed us to have a ton of accessibility features out of the box. I hate
+      to admit it, but this library completely replaced Headless UI for us. 🙈
     </p>
 
     <p>
@@ -44,7 +38,12 @@ export const Accessibility: React.FC = () => (
         minimal examples
       </ExternalLink>{" "}
       of things I discovered, but I couldn&apos;t yet follow up with an in-depth
-      article about the challenges and gains of the whole process. There were
+      article about the challenges and gains of the whole process. I&apos;m also
+      not afraid to{" "}
+      <ExternalLink href="https://stackoverflow.com/questions/77806380/how-can-i-correctly-set-the-type-of-a-value-in-the-onchange-method-in-react-with">
+        ask
+      </ExternalLink>{" "}
+      if I really can&apos;t find a solution for my problem. There were
       definitely some interesting learnings along the way and I would love to
       tell you more about it in a personal interview.
     </p>
