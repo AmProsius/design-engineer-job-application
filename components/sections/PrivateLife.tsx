@@ -15,7 +15,7 @@ export const PrivateLife: React.FC = () => (
       <ExternalLink href="https://github.com/AmProsius/gothic-1-community-patch">
         patch
       </ExternalLink>{" "}
-      Gothic, a game which is over 20 years old. The patch has over 90k
+      for Gothic, a game which is over 20 years old. The patch has over 90k
       downloads and is the third most subscribed mod on the{" "}
       <ExternalLink href="https://steamcommunity.com/workshop/browse/?appid=65540&browsesort=totaluniquesubscribers&section=readytouseitems&actualsort=totaluniquesubscribers&p=1">
         Steam workshop

@@ -1,9 +1,10 @@
+import Image from "next/image";
 import { ExternalLink } from "@/components/ExternalLink";
 import { Section } from "@/components/Section";
 import { SectionHeadline } from "@/components/SectionHeadline";
 
-import buttonGroup from "../../public/img/ButtonGroup.tsx.svg";
-import Image from "next/image";
+import buttonGroupSvg from "../../public/img/button-group.svg";
+import buttonGroupPng from "../../public/img/button-group.png";
 
 export const TheBest: React.FC = () => (
   <Section>
@@ -45,9 +46,15 @@ export const TheBest: React.FC = () => (
     </p>
 
     <Image
-      src={buttonGroup}
+      src={buttonGroupPng}
       alt="Button group component code"
-      className="h-auto w-full"
+      className="h-auto w-full sm:hidden"
+    />
+
+    <Image
+      src={buttonGroupSvg}
+      alt="Button group component code"
+      className="h-auto w-full max-sm:hidden"
     />
   </Section>
 );
