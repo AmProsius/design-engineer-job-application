@@ -2,6 +2,9 @@ import { ExternalLink } from "@/components/ExternalLink";
 import { Section } from "@/components/Section";
 import { SectionHeadline } from "@/components/SectionHeadline";
 
+import buttonGroup from "../../public/img/ButtonGroup.tsx.svg";
+import Image from "next/image";
+
 export const TheBest: React.FC = () => (
   <Section>
     <SectionHeadline>Why you need me</SectionHeadline>
@@ -37,6 +40,14 @@ export const TheBest: React.FC = () => (
       Kowalski and other big players in the React community. Their educational
       knowledge is gold and BuildUI was an instant buy. I&apos;m also often
       inspired by Jhey Tompkins&apos; CSS content, which opens up my horizons.
+      This is an example component which I recently developed for our rewritten
+      product with cutting-edge CSS features:
     </p>
+
+    <Image
+      src={buttonGroup}
+      alt="Button group component code"
+      className="h-auto w-full"
+    />
   </Section>
 );
